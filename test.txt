@@ -5,5 +5,7 @@
 <body>
 Getting started with Git
 <p>Welcome to git application</p>
+<p>line1</p>
+<p>line2</p>
 </body>
 </html>
