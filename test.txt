@@ -7,6 +7,5 @@ Getting started with Git
 <p>Welcome to git application</p>
 <p>line1</p>
 <p>line2</p>
-<p>line3</p>
 </body>
 </html>
