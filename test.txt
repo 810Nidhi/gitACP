@@ -4,5 +4,6 @@
 </head>
 <body>
 Getting started with Git
+<p>Welcome to git application</p>
 </body>
 </html>
