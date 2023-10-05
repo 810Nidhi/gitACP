@@ -10,6 +10,7 @@ Getting started with Git
 line3 line4
 line5
 line6 
+line7
 add a new line 
 </body>
 </html>
