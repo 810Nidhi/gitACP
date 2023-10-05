@@ -7,7 +7,9 @@ Getting started with Git
 <p>Welcome to git application</p>
 <p>line1</p>
 <p>line2</p>
-line3 
-adding a new line 
+line3 line4
+line5
+line6 
+
 </body>
 </html>
