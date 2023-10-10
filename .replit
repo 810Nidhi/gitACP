@@ -1,4 +1,6 @@
 run = "cowsay Configure me!"
-
+language="html"
 [nix]
 channel = "stable-22_11"
+[deployment]
+run = ["sh", "-c", "cowsay Configure me!"]
